@@ -1,18 +1,12 @@
 # CodeCollector
 
-
-
-### "codeCollector: A Gradio Web UI"
+### "CodeCollector: A Gradio Web UI"
 
 <img src="https://github.com/leeseomin/CodeCollector/blob/main/pic/3.png" width="100%">
 
-
-
-
-
-<br>
 <br>
 
+<br>
 
 ### Key Features
 
@@ -25,11 +19,14 @@
    - The content of each file is included in the Markdown document along with the file path and language type.
    - The merged Markdown document is saved in the "merged" directory with the name "combined_code_files.md".
 
+## Running the Application
 
-## run code 앱실행  
+To run the CodeCollector application, execute the following command:
 
-```python run_7.py```
+```
+python run_7.py
+```
 
+<br/>
 
- <br/>
- 
+The application will launch a Gradio web UI where you can input the GitHub repository URL, specify the file extensions, and perform code extraction and Markdown merging with the click of a button.
