@@ -19,6 +19,8 @@
    - The content of each file is included in the Markdown document along with the file path and language type.
    - The merged Markdown document is saved in the "merged" directory with the name "combined_code_files.md".
 
+
+
 ## Running the Application
 
 To run the CodeCollector application, execute the following command:
