@@ -4,7 +4,7 @@
 
 ### "odeCollector: A Gradio Web UI"
 
-<img src="url" width="100%">
+<img src="https://github.com/leeseomin/CodeCollector/blob/main/pic/1.png" width="100%">
 
 
 
