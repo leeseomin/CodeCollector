@@ -16,7 +16,7 @@
 
 ## run code 앱실행  
 
-```python run.py```
+```python run_2.py```
 
 
  <br/>
