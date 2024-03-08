@@ -4,7 +4,7 @@
 
 ### "codeCollector: A Gradio Web UI"
 
-<img src="https://github.com/leeseomin/CodeCollector/blob/main/pic/2.png" width="100%">
+<img src="https://github.com/leeseomin/CodeCollector/blob/main/pic/3.png" width="100%">
 
 
 
