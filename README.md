@@ -8,7 +8,7 @@
 
 <br>
 
-### Key Features
+### 💙 Key Features
 
 1. Code extraction by language:
    - The code selectively extracts code files from a GitHub repository based on the file extensions specified by the user.
@@ -17,8 +17,11 @@
 2. Merging into a single Markdown file:
    - The extracted code files are merged into a single Markdown document.
    - The content of each file is included in the Markdown document along with the file path and language type.
-   - The merged Markdown document is saved in the "merged" directory with the name "combined_code_files.md".
+   - The merged Markdown document is saved in the "merged" directory with the name "repo_name.md".
 
+3. Core code extraction:
+   - The code identifies and extracts only the core code sections from the extracted files.
+   - The merged Markdown document is saved in the "merged" directory with the name "core_repo_name.md".
 
 
 ## 🟧 Running the Application
@@ -47,7 +50,7 @@ python run_21.py
 
 
 
-## Application
+## 🟩 Application
 
 By leveraging this application, users can upload a generated markdown document to a Large Language Model (LLM), enabling them to engage in a wide range of discussions and gain valuable insights pertaining to their specific project.
 
