@@ -2,7 +2,7 @@
 
 ### "CodeCollector: A Gradio Web UI"
 
-<img src="https://github.com/leeseomin/CodeCollector/blob/main/pic/3.png" width="100%">
+<img src="https://github.com/leeseomin/CodeCollector/blob/main/pic/4.png" width="100%">
 
 <br>
 
