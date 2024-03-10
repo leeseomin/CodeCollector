@@ -1,4 +1,4 @@
-# CodeCollector : A Gradio Web UI" 
+# CodeCollector : A Gradio Web UI
 
 TL;DR: This Gradio app allows users to **extract code files from GitHub repositories, merge them into a Markdown document**, and identify core code files using complexity, coverage, and dependency analysis.
 
