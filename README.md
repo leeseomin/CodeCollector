@@ -34,6 +34,17 @@ python run_12.py
 The application will launch a Gradio web UI where you can input the GitHub repository URL, specify the file extensions, and perform code extraction and Markdown merging with the click of a button.
 
 
+## Running the Application : advanced mode 
+(core code extraction feature added)
+
+```
+pip install astroid coverage modulegraph pylint radon gradio
+```
+
+```
+python run_21.py 
+```
+
 
 
 ## Application
