@@ -19,8 +19,11 @@
    - The content of each file is included in the Markdown document along with the file path and language type.
    - The merged Markdown document is saved in the "merged" directory with the name "repo_name.md".
 
-3. Core code extraction:
-   - The code identifies and extracts only the core code sections from the extracted files.
+3. Core Code Extraction:
+   - It identifies the core code using techniques such as AST analysis, code coverage analysis, and dependency analysis.
+   - Files with high complexity, high test coverage, and many dependencies are considered as core code.
+   - It generates a separate Markdown document containing only the core code.
+   - This feature helps in quickly understanding the essential parts of the repository.
    - The merged Markdown document is saved in the "merged" directory with the name "core_repo_name.md".
 
 
