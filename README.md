@@ -19,7 +19,11 @@ TL;DR: This **Gradio web app** allows users to **extract code files from GitHub 
    - The content of each file is included in the Markdown document along with the file path and language type.
    - The merged Markdown document is saved in the "merged" directory with the name "repo_name.md".
 
-3. Core Code Extraction: experimental feature 
+3. Automatically incorporates text from related arxiv papers linked in the readme into the merged markdown file (if such papers exist).
+   - If the readme.md file for the GitHub project contains any links to related papers on https://arxiv.org/,
+     the tool will automatically detect these links, download the corresponding PDF files using wget, extract the text content from the PDFs, and append this extracted text to the merged markdown file
+
+4. Core Code Extraction: experimental feature 
    - It identifies the core code using techniques such as AST analysis, code coverage analysis, and dependency analysis.
    - Files with high complexity, high test coverage, and many dependencies are considered as core code.
    - It generates a separate Markdown document containing only the core code.
@@ -48,7 +52,7 @@ pip install astroid coverage modulegraph pylint radon gradio
 ```
 
 ```
-python run_21.py 
+python run_23.py 
 ```
 
 
