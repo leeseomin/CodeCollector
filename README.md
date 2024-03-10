@@ -26,7 +26,7 @@
 To run the CodeCollector application, execute the following command:
 
 ```
-python run_10.py
+python run_11.py
 ```
 
 <br/>
