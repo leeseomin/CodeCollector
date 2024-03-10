@@ -19,7 +19,7 @@
    - The content of each file is included in the Markdown document along with the file path and language type.
    - The merged Markdown document is saved in the "merged" directory with the name "repo_name.md".
 
-3. Core Code Extraction:
+3. Core Code Extraction: experimental feature 
    - It identifies the core code using techniques such as AST analysis, code coverage analysis, and dependency analysis.
    - Files with high complexity, high test coverage, and many dependencies are considered as core code.
    - It generates a separate Markdown document containing only the core code.
@@ -41,7 +41,7 @@ The application will launch a Gradio web UI where you can input the GitHub repos
 
 
 ## 🟧 Running the Application : advanced mode 
-(⭐⭐ core code extraction feature added)
+(⭐⭐ experimental core code extraction feature added)
 
 ```
 pip install astroid coverage modulegraph pylint radon gradio
