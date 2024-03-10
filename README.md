@@ -8,7 +8,7 @@
 
 <br>
 
-### 💙 Key Features
+### 💙 Key Features 💙
 
 1. Code extraction by language:
    - The code selectively extracts code files from a GitHub repository based on the file extensions specified by the user.
@@ -38,7 +38,7 @@ The application will launch a Gradio web UI where you can input the GitHub repos
 
 
 ## 🟧 Running the Application : advanced mode 
-(core code extraction feature added)
+(⭐⭐ core code extraction feature added)
 
 ```
 pip install astroid coverage modulegraph pylint radon gradio
