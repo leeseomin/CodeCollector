@@ -21,7 +21,7 @@
 
 
 
-## Running the Application
+## 🟧 Running the Application
 
 To run the CodeCollector application, execute the following command:
 
@@ -34,7 +34,7 @@ python run_12.py
 The application will launch a Gradio web UI where you can input the GitHub repository URL, specify the file extensions, and perform code extraction and Markdown merging with the click of a button.
 
 
-## Running the Application : advanced mode 
+## 🟧 Running the Application : advanced mode 
 (core code extraction feature added)
 
 ```
