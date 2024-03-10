@@ -45,7 +45,7 @@ The application will launch a Gradio web UI where you can input the GitHub repos
 
 
 ## 🟧 Running the Application : advanced mode 
-(⭐⭐ experimental core code extraction feature added)
+(⭐⭐ An experimental feature for extracting core code has been added, and related papers are also downloaded together.)
 
 ```
 pip install astroid coverage modulegraph pylint radon gradio pdfminer.six wget
