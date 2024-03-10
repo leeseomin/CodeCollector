@@ -48,7 +48,8 @@ The application will launch a Gradio web UI where you can input the GitHub repos
 (⭐⭐ experimental core code extraction feature added)
 
 ```
-pip install astroid coverage modulegraph pylint radon gradio
+pip install astroid coverage modulegraph pylint radon gradio pdfminer.six wget
+
 ```
 
 ```
