@@ -1,4 +1,4 @@
-# CodeCollector 
+# CodeCollector  
 
 ### "CodeCollector: A Gradio Web UI"
 
