@@ -2,7 +2,7 @@
 
 TL;DR: This **Gradio web app** allows users to **extract code files from GitHub repositories, merge them into a Markdown document**, and identify core code files using complexity, coverage, and dependency analysis.
 
-<img src="https://github.com/leeseomin/CodeCollector/blob/main/pic/4.png" width="100%">
+<img src="https://github.com/leeseomin/CodeCollector/blob/main/pic/5.png" width="100%">
 
 <br>
 
