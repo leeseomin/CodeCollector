@@ -53,7 +53,7 @@ pip install astroid coverage modulegraph pylint radon gradio pdfminer.six wget h
 ```
 
 ```
-python run_23.py 
+python run_24.py 
 ```
 
 
